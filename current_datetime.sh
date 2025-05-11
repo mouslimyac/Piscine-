@@ -1,3 +1,3 @@
 #!/bin/bash
-#  affiche la date et l'heurre actuelles au format YYY-MM-DD HH:MM:SS
+#  ce code affiche la date et l'heurre actuelles 
 date "+%Y-%m-%d %H:%M-%S"

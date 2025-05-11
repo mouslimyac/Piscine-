@@ -1,3 +1,3 @@
 #!/bin/bash
-# affiche "hello,world!"
+#ce code  affiche "hello,world!"
 echo "hello,world!"

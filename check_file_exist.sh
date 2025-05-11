@@ -2,9 +2,9 @@
 # Vérifie si un fichier existe
 echo "Entrez le nom du fichier :"
 read file
-
-if [ -f "$file" ]; then
+lire nom de fichier 
+if [ -f "$file" ]; alors
 echo "Le fichier '$file' existe."
-else
+autre
 echo "Le fichier '$file' n'existe pas."
 f
